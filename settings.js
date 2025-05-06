@@ -9,10 +9,10 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6282113821188'] //['628','628'] 2 owner
+global.owner = ['60149346494'] //['60162964988','628'] 2 owner
 global.packname = 'Bot WhatsApp'
-global.author = 'Nazedev'
-global.botname = 'Naze Bot'
+global.author = 'leppdev'
+global.botname = 'Ryuu Bot'
 global.listprefix = ['+','!','.']
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json' // Taruh url mongodb di sini jika menggunakan mongodb. Format : 'mongodb+srv://...'
@@ -35,9 +35,9 @@ global.my = {
 }
 
 global.limit = {
-	free: 20,
-	premium: 999,
-	vip: 9999
+	free: 9999999,
+	premium: 9999999,
+	vip: 999999999
 }
 
 global.uang = {
